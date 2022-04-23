@@ -49,6 +49,6 @@ St. Mary's University, San Antonio, TX • B.A., Economics • 2006-2010
 
 ## Skills
 * Languages: CSS, HTML, Python, SQL
-* Platforms: Windows, Mac, iOS, Android
-* Software: Excel, G Suite, Git, Jira, Photoshop, Salesforce, Alaska, Asana, PowerBI, Tableau
-* Interests: Video games, economics, security operations, resilience, data modeling, music
+* Platforms: Windows, Mac
+* Software: Alaska, Asana, Excel, G Suite, Git, Jira, Photoshop, PowerBI, Salesforce, Tableau
+* Interests: Data modeling, economics, fashion history, resilience, security operations, video games
