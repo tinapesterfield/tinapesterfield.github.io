@@ -1,3 +1,3 @@
-Cat owner and music listener
+🐈‍⬛ cat owner and music listener🎧
 
-[Resume](/docs/resume.md)
+[resume](/docs/resume.md)
