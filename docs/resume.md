@@ -36,7 +36,7 @@ Cross-functional operations work in a mission-driven organization with room to f
 * Managed minor manual accounting and payroll adjustments as requested
 
 ### Gastroenterology Consultants of San Antonio, San Antonio, TX • ASC Admin • Feb 2011-Nov 2013
-* Designed and executed performance measure studies for the Board of Directors to ensure doctors were folowing quality improvement initiatives
+* Designed and executed performance measure studies for the Board of Directors to ensure doctors were following quality improvement initiatives
 * Assisted in data transfer to new database
 * Reorganized ASC paper system and data logging to ensure digital records for HITECH Act
 
