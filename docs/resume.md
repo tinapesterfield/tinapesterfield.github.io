@@ -10,7 +10,7 @@ Cross-functional operations work in a mission-driven organization with room to f
 ---
 
 ## Experience
-### Humble Bundle, Inc., San Francisco, CA • Product Operations Supervisor • Dec 2022-present
+### Humble Bundle, Inc., San Francisco, CA • Product Operations Manager • Dec 2022-present
 * Closely monitors product launch timelines while triaging work for team
 * Delivers monthly reports for key external stakeholders
 * Ensures inventory systems are maintained securely and escalates issues to appropriate teams
