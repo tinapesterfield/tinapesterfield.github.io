@@ -11,16 +11,19 @@ Cross-functional operations work in a mission-driven organization with room to f
 
 ## Experience
 ### Humble Bundle, Inc., San Francisco, CA • Product Operations Supervisor • Dec 2022-present
-* Conducts team member 1:1s and performance reviews
-* Acts as representative for store operations in cross functional meetings
-* Plans store OKRs and KPIs
-* Update processes or develop net new processes to ensure team efficency
+* Closely monitors product launch timelines while triaging work for team
+* Delivers monthly reports for key external stakeholders
+* Ensures inventory systems are maintained securely and escalates issues to appropriate teams
+* Quickly adapting workflows and protocols to industry demands
+* Collaborates with engineering and product to improve current designs and workflow  
+* Represents store operations in cross-functional situations
+* Responsible for store sprint planning, stand up, and performance review meetings
   
 ### Humble Bundle, Inc., San Francisco, CA • Senior Product Operations Coordinator • Feb 2019-Dec 2022
 * Began pair programming project with engineering to improve operations tools and scripts
-* Acts as technical liason for Store Operations team, filing Jira tickets and attending sprint planning and stand up meetings with engineering
-* Oversees AAA and III launches, promotions, and publisher technical issues
-* Trains new hires in technical tasks and scripting
+* Acted as technical liason for Store Operations team, filing Jira tickets and attending sprint planning and stand up meetings with engineering
+* Oversaw AAA and III launches, promotions, and publisher technical issues
+* Trained new hires in technical tasks and scripting
 * Designed and onboarded Psychonauts 2 Kickstarter (fig.co) fulfillment with DoubleFine stakeholders
 
 ### InComm Payments, Portland, OR • Campaign Manager II • Jan 2017-Feb 2019
