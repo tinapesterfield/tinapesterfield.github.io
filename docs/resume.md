@@ -10,7 +10,13 @@ Cross-functional operations work in a mission-driven organization with room to f
 ---
 
 ## Experience
-### Humble Bundle, Inc., San Francisco, CA • Senior Product Operations Coordinator • Feb 2019-present
+### Humble Bundle, Inc., San Francisco, CA • Product Operations Supervisor • Dec 2022-present
+* Conducts team member 1:1s and performance reviews
+* Acts as representative for store operations in cross functional meetings
+* Plans store OKRs and KPIs
+* Update processes or develop net new processes to ensure team efficency
+  
+### Humble Bundle, Inc., San Francisco, CA • Senior Product Operations Coordinator • Feb 2019-Dec 2022
 * Began pair programming project with engineering to improve operations tools and scripts
 * Acts as technical liason for Store Operations team, filing Jira tickets and attending sprint planning and stand up meetings with engineering
 * Oversees AAA and III launches, promotions, and publisher technical issues
