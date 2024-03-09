@@ -14,7 +14,7 @@ Cross-functional operations work in a mission-driven organization with room to f
 * Closely monitors product launch timelines while triaging work for team
 * Delivers monthly reports for key external stakeholders
 * Ensures inventory systems are maintained securely and escalates issues to appropriate teams
-* Quickly adapting workflows and protocols to industry demands
+* Quickly adapts workflows and protocols to industry demands
 * Collaborates with engineering and product to improve current designs and workflow  
 * Represents store operations in cross-functional situations
 * Responsible for store sprint planning, stand up, and performance review meetings
