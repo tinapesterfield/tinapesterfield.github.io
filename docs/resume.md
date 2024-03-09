@@ -41,7 +41,7 @@ Cross-functional operations work in a mission-driven organization with room to f
 
 ### Gann Fisheries, West Coast Territories • Consultant • Nov 2013-Oct 2017
 * Assisted in technology upgrades
-* Designed Excel spreadsheets to automatically calculate payroll according to fisher's senority and role, as well as personal tax selections
+* Designed Excel spreadsheets to automatically calculate payroll according to fisher's seniority and role, as well as personal tax selections
 * Managed minor manual accounting and payroll adjustments as requested
 
 ### Gastroenterology Consultants of San Antonio, San Antonio, TX • ASC Admin • Feb 2011-Nov 2013
